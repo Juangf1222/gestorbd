@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "nombre": "Juan",
+    "edad": 20,
+    "carrera": "Ingenieria de Sistemas",
+    "activo": true
+  },
+  {
+    "id": "2",
+    "nombre": "Ana",
+    "edad": 22,
+    "carrera": "Ingenieria Industrial",
+    "activo": true
+  },
+  {
+    "id": "3",
+    "nombre": "Carlos",
+    "edad": 21,
+    "carrera": "Administracion",
+    "activo": false
+  },
+  {
+    "id": "4",
+    "nombre": "Laura",
+    "edad": 19,
+    "carrera": "Contaduria",
+    "activo": true
+  },
+  {
+    "id": "5",
+    "nombre": "Pedro",
+    "edad": 24,
+    "carrera": "Derecho",
+    "activo": true
+  },
+  {
+    "id": "6",
+    "nombre": "Sofia",
+    "edad": 20,
+    "carrera": "Psicologia",
+    "activo": true
+  },
+  {
+    "id": "7",
+    "nombre": "Miguel",
+    "edad": 23,
+    "carrera": "Ingenieria Civil",
+    "activo": false
+  },
+  {
+    "id": "8",
+    "nombre": "Valentina",
+    "edad": 21,
+    "carrera": "Arquitectura",
+    "activo": true
+  },
+  {
+    "id": "9",
+    "nombre": "Daniel",
+    "edad": 22,
+    "carrera": "Economia",
+    "activo": true
+  },
+  {
+    "id": "10",
+    "nombre": "Camila",
+    "edad": 20,
+    "carrera": "Medicina",
+    "activo": true
+  },
+  {
+    "id": "11",
+    "nombre": "Andres",
+    "edad": 25,
+    "carrera": "Ingenieria Electronica",
+    "activo": false
+  },
+  {
+    "id": "12",
+    "nombre": "Natalia",
+    "edad": 18,
+    "carrera": "Diseño Grafico",
+    "activo": true
+  },
+  {
+    "id": "13",
+    "nombre": "Felipe",
+    "edad": 26,
+    "carrera": "Matematicas",
+    "activo": true
+  },
+  {
+    "id": "14",
+    "nombre": "Paula",
+    "edad": 21,
+    "carrera": "Biologia",
+    "activo": false
+  },
+  {
+    "id": "15",
+    "nombre": "Jorge",
+    "edad": 27,
+    "carrera": "Fisica",
+    "activo": true
+  },
+  {
+    "id": "16",
+    "nombre": "Luisa",
+    "edad": 22,
+    "carrera": "Quimica",
+    "activo": true
+  },
+  {
+    "id": "17",
+    "nombre": "Sebastian",
+    "edad": 23,
+    "carrera": "Historia",
+    "activo": false
+  },
+  {
+    "id": "18",
+    "nombre": "Maria",
+    "edad": 20,
+    "carrera": "Filosofia",
+    "activo": true
+  },
+  {
+    "id": "19",
+    "nombre": "David",
+    "edad": 24,
+    "carrera": "Ingenieria Mecatronica",
+    "activo": true
+  },
+  {
+    "id": "20",
+    "nombre": "Isabella",
+    "edad": 19,
+    "carrera": "Comunicacion Social",
+    "activo": true
+  },
+  {
+    "id": "21",
+    "nombre": "Kevin",
+    "edad": 22,
+    "carrera": "Ingenieria Ambiental",
+    "activo": false
+  },
+  {
+    "id": "22",
+    "nombre": "Gabriela",
+    "edad": 23,
+    "carrera": "Trabajo Social",
+    "activo": true
+  },
+  {
+    "id": "23",
+    "nombre": "Alejandro",
+    "edad": 21,
+    "carrera": "Ingenieria Quimica",
+    "activo": true
+  },
+  {
+    "id": "24",
+    "nombre": "Sara",
+    "edad": 20,
+    "carrera": "Mercadeo",
+    "activo": true
+  },
+  {
+    "id": "25",
+    "nombre": "Cristian",
+    "edad": 24,
+    "carrera": "Ingenieria de Sistemas",
+    "activo": false
+  },
+  {
+    "id": "26",
+    "nombre": "Diana",
+    "edad": 22,
+    "carrera": "Enfermeria",
+    "activo": true
+  },
+  {
+    "id": "27",
+    "nombre": "Nicolas",
+    "edad": 23,
+    "carrera": "Veterinaria",
+    "activo": true
+  },
+  {
+    "id": "28",
+    "nombre": "Juliana",
+    "edad": 19,
+    "carrera": "Odontologia",
+    "activo": false
+  },
+  {
+    "id": "29",
+    "nombre": "Ricardo",
+    "edad": 28,
+    "carrera": "Ingenieria Industrial",
+    "activo": true
+  },
+  {
+    "id": "30",
+    "nombre": "Carolina",
+    "edad": 21,
+    "carrera": "Administracion",
+    "activo": true
+  }
+]
