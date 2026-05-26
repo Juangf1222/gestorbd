@@ -1,0 +1,14 @@
+# Datasets de prueba
+
+## Dataset pequeño
+Contiene 5 documentos para pruebas básicas.
+
+## Dataset mediano
+Contiene 100 documentos para pruebas de rendimiento y persistencia.
+
+## Cómo cargar los datos
+Copiar el archivo JSON dentro de la carpeta:
+
+data/
+
+y luego iniciar el sistema.
